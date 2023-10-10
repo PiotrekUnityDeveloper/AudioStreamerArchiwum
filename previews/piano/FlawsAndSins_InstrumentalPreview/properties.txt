@@ -1,0 +1,7 @@
+scroll_speed:9
+instrument_main_c1:Lime
+instrument_main_c2:Blue
+instrument_main_c3:Red
+instrument_main_c4:Yellow
+instrument_bg_b1:Pink
+play_at_first_note:True
