@@ -22,8 +22,23 @@
 56 Masz cichą nadzieje, że jeszcze nie skonał
 58 Czekasz na tramwaj pół godziny
 60 Wsiadasz i jedziesz, lekko ubity.
+61 Coś ciągle się skurwia
+62 Jedziemy na górniak
+63 Spokojnie kolego
+64 Nie róbmy nic złego
+65 Idziemy do żabki
+66 Po dwie Kanapki
+67 Ty płacisz, ja zjadam
+67 Tęga to sprawa
 67 (kurwa!)
-61 +pause+ 19
+68 Kończymy na dzisiaj
+69 Autobus spiernicza
+70 Czekamy na przystani
+71 Słuchając se bita
+72 Godzina już mija
+73 I tramwaj się wbija
+73 Twój ryj robija
+74 (twój ryj rozbija)
 81 om em im em a m hmh
 83 em ite k kossakowski eski o
 87 włoski, on boski je..

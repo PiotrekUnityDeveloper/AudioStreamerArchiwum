@@ -1,0 +1,7 @@
+to use this in AudioStreamer, please unzip and drag the top folder
+(the one with this file)
+and move it to C:\\Documents\\AudioStreamer\\songs\\
+
+you should see it in the list when you launch/refresh audiostreamer content folders list
+
+and click play to listen!
