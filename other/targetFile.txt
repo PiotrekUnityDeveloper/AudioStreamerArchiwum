@@ -1,1 +1,1 @@
-C:\Users\Piotr\Desktop\minetest-5.8.0-win64\games\witekkraft20\mods\PLAYER\mcl_music\sounds\minecraft\Danny.mp3
+C:\Users\Piotr\Documents\AudioStreamer\library\audio_only\changes
