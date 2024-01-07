@@ -1,0 +1,25 @@
+once youre done downloading audiostreamer from:
+https://piotrekunitydeveloper.github.io/AudioStreamer/
+you can create a content folder which can hold a music, all of its instrumental tracks
+and its lyrics.
+
+Lyrics Template
+
+in order:
+
+16 - seconds at which the lyric part should be triggered
++pause+ (interval in seconds) - pause in lyrics (can be used for long pauses thoughout the song)
+She say im a tandrum - the actual part of lyrics
+
+Example:
+
+16 she say im a tandrum
+19 eighteenth's year behind me
+22 sup yall
++pause+ 6
+29 thats some lyrics here
+
+Please check out the examples provided in Documents/AudioStreamer/songs
+Thanks!
+
+MOdding api is NOT finished and will not be continued
