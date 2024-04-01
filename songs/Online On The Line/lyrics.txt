@@ -29,6 +29,7 @@
 110 He searched for her, his heart open wide.
 113 Does she live in a city, or countryside?
 114 He wonders if their love could ever coincide.
+120 +pause+ 29
 154 Through pixels and bytes, they shared their dreams,
 156 Their laughter echoing through cyberspace streams.
 159 But behind the avatar, reality gleams,
